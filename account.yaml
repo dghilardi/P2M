@@ -1,0 +1,7 @@
+SERVER: smtp.mail.com
+PORT: 465
+CONNECTIONTYPE: SSL
+
+NAME: Name
+EMAIL: name@mail.com
+PASSWORD: password

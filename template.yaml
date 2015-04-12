@@ -1,0 +1,8 @@
+SUBJECT: $NAME$ (src $VERSION$)
+BODY: |
+ In allegato la cartella di sviluppo del software $NAME$ versione $VERSION$.
+ 
+ CHANGELOG
+ 
+ $CHANGELOG$
+ 
